@@ -1,0 +1,45 @@
+h1
+{
+  font-variant:small-caps;
+  font-style:oblique;
+  background-color:rgb(123, 126, 130);
+}
+h3
+{
+  font-variant:small-caps;
+  font-style:oblique;
+  background-color:rgb(123, 126, 130);
+}
+body
+{
+  background-color: #B3B3B3;
+}
+a
+{
+  font-weight: bold;
+  color:#FFFFFF;
+  background:rgb(79, 78, 81);
+  width:50px;
+  text-align:center;
+  text-decoration: none;
+}
+a:hover
+{
+  color:blue;
+}
+a:focus
+{
+  color:rgb(129, 36, 229);
+}
+a:active
+{
+  color:rgb(239, 146, 33);
+}
+ul.vita
+{
+  border-style: inset;
+}
+section.contact
+{
+  border-style: inset;
+}

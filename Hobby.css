@@ -1,0 +1,36 @@
+div
+{
+  position: absolute;
+  left: 520px;
+  top: 140px;
+}
+a.nv {
+  color: blue;
+  text-decoration:none;
+  font-variant:small-caps;
+}
+
+h2
+{
+  color: red;
+    font-variant:small-caps;
+}
+p {
+  color: rgb(255, 97, 0);
+    font-variant:small-caps;
+}
+body {
+      background-repeat: no-repeat;
+
+      background-size: cover;
+
+      background-image: url("picture/sky.jpg");
+   }
+mark{
+  color:
+  rgb(249, 131, 4)
+}
+h1
+{
+    font-variant:small-caps;
+}

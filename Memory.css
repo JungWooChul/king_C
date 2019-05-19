@@ -1,0 +1,125 @@
+a{
+  font-variant:small-caps;
+  color:black;
+  text-decoration: none;
+}
+a.nv{
+  color:blue
+}
+body
+{
+  background-image: url("picture/Sejong.jpeg");
+  background-repeat:repeat;
+  background-position: right;
+  background-size:100%;
+}
+h1{
+  font-variant:small-caps;
+}
+h3.february{
+  font-variant:small-caps;
+  color:rgb(255, 0, 0);
+
+}
+cite.february{
+  color:rgb(242, 116, 116);
+}
+h3.march{
+  font-variant:small-caps;
+  color:orange;
+
+}
+cite.march{
+  color:rgb(249, 141, 24);
+}
+h3.april{
+  font-variant:small-caps;
+  color:rgb(244, 215, 66);
+}
+cite.april{
+  color:rgb(244, 238, 65);
+}
+h3.may{
+  font-variant:small-caps;
+  color:green;
+}
+cite.may{
+  color:rgb(80, 206, 12);
+}
+
+h3.june{
+  font-variant:small-caps;
+  color:rgb(13, 40, 219);
+
+}
+cite.june{
+  color:rgb(18, 162, 229);
+}
+
+h3.july{
+  font-variant:small-caps;
+  color:rgb(22, 9, 122);
+}
+cite.july{
+  color:rgb(86, 68, 226);
+}
+
+h3.august{
+  font-variant:small-caps;
+  color:rgb(219, 15, 255);
+}
+cite.august{
+  color:rgb(241, 181, 252);
+}
+
+h3.september{
+  font-variant:small-caps;
+  color:rgb(22, 9, 122);
+}
+cite.september{
+  color:rgb(86, 68, 226);
+}
+
+h3.november{
+  font-variant:small-caps;
+  color:rgb(13, 40, 219);
+}
+cite.november{
+  color:rgb(18, 162, 229);
+}
+
+h3.december{
+  font-variant:small-caps;
+  color:green;
+}
+cite.december{
+  color:rgb(80, 206, 12);
+}
+h3.jan{
+  font-variant:small-caps;
+  color:rgb(244, 215, 66);
+}
+cite.jan{
+  color:rgb(244, 238, 65);
+}
+
+h3.feb{
+  font-variant:small-caps;
+  color:orange;
+}
+cite.feb{
+  color:rgb(249, 141, 24);
+}
+h3.mar{
+  font-variant:ssmall-caps;
+  color:rgb(255, 0, 0);
+}
+cite.mar{
+  color:rgb(242, 116, 116);
+}
+table
+{
+  border-style: groove;
+  border-color: rgb(11, 237, 169);
+  background-color: white;
+}
